@@ -1,6 +1,4 @@
-Another line to add.
+These are a list of solutions for all of the Coding Bat problems. 
 
-These are a list of solutions from Coding Bat. 
-
-This is the third line
+This is another line to test.
 
